@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">listview_mahasiswa</string>
+    <string name="title_activity_buat_biodata">BuatBiodata</string>
+</resources>
